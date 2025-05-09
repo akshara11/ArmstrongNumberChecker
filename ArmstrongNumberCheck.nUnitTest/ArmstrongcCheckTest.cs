@@ -9,7 +9,7 @@ namespace ArmstrongNumberCheck.nUnitTest
         {
             armstrongnumber = new ArmstrongNumber();
         }
-
+        
         [TestCase(153)]
         [TestCase(370)]
         [TestCase(34)]

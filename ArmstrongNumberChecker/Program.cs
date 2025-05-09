@@ -11,6 +11,8 @@ namespace ArmstrongNumberChecker
             var armstrongnumberchecking = Convert.ToInt32(Console.ReadLine());
             var result = armstrongnumber.IsArmstrong(armstrongnumberchecking);
             Console.WriteLine("number == sum of its digits: "+result);
+
+            Console.WriteLine("Hi");
         }
     }
 }
